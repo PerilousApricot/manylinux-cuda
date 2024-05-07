@@ -49,13 +49,13 @@ AARCH64 Architecture
 
   ::
 
-      docker pull sameli/manylinux_2_28_x86_64_cuda_12.3
+      docker pull sameli/manylinux_2_28_aarch64_cuda_12.3
 
 * **manylinux2014** on **AARCH64** arch with CUDA **12.3** (`see on Dockerhub <https://hub.docker.com/r/sameli/manylinux2014_aarch64_cuda_12.3>`__) |deploy-docker-manylinux2014_aarch64_cuda_12_3|
 
   ::
 
-      docker pull sameli/manylinux2014_x86_64_cuda_12.3
+      docker pull sameli/manylinux2014_aarch64_cuda_12.3
 
 Base of Images
 ==============
